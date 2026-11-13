@@ -14,3 +14,9 @@ Website includes:
 ## Technologies Used 
 
 I built this website using **HTML** withouth any CSS or Javascript
+
+## What I Learned
+
+I learned how to organize HTML files and how to *link multiple pages together*
+
+Learn more about HTML at [W3Schools] (https://www.w3schools.com/html/)
